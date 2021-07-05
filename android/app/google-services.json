@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1094206656024",
+    "project_id": "bhej-fcd3b",
+    "storage_bucket": "bhej-fcd3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094206656024:android:62607f7d75bbde8107fd6d",
+        "android_client_info": {
+          "package_name": "com.bhej"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094206656024-4e6lmncm1i8gp8c131d0t5cpssk03kf8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bhej",
+            "certificate_hash": "e7dce4ee42486eef904b3b89c7de5935e5712b0d"
+          }
+        },
+        {
+          "client_id": "1094206656024-qmg37gbkjcegq33m4vq7jn1763n5ohsl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvSV8x6u18u-aCgKJTrKslIHrNP1nj29g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094206656024-qmg37gbkjcegq33m4vq7jn1763n5ohsl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
